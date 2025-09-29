@@ -1,0 +1,154 @@
+[
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_1",
+      "prompt": "Was MFL performed?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_1",
+      "prompt": "External inspection interval typical?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_1",
+      "prompt": "Internal inspection interval typical?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_1",
+      "prompt": "UT inspection interval typical?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_1",
+      "prompt": "Additional Goal 1 questions",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_2",
+      "prompt": "Is shell UT nominal?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_2",
+      "prompt": "Any corroded or damaged appurtenances?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_3",
+      "prompt": "Is shell UT nominal?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_3",
+      "prompt": "Any corroded or damaged appurtenances?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_4",
+      "prompt": "Is shell UT nominal?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_4",
+      "prompt": "Any corroded or damaged appurtenances?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_5",
+      "prompt": "Is shell UT nominal?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_5",
+      "prompt": "Any corroded or damaged appurtenances?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_6",
+      "prompt": "Is shell UT nominal?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_6",
+      "prompt": "Any corroded or damaged appurtenances?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_7",
+      "prompt": "Is shell UT nominal?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_7",
+      "prompt": "Any corroded or damaged appurtenances?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_8",
+      "prompt": "Is shell UT nominal?",
+      "is_default": true
+    }
+  },
+  {
+    "model": "inspections.goalquestiontemplate",
+    "fields": {
+      "goal_key": "goal_8",
+      "prompt": "Any corroded or damaged appurtenances?",
+      "is_default": true
+    }
+  }
+]
